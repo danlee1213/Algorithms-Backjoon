@@ -1,2 +1,2 @@
-# Algorithms-Backjoon
-Algorithm Study (https://www.acmicpc.net/)
+# Algorithms-Baekjoon
+Algorithm Study from Baekjoon (https://www.acmicpc.net/)
